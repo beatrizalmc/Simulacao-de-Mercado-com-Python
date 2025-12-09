@@ -4,11 +4,11 @@
 Este projeto é uma aplicação de terminal que simula um pequeno sistema de mercado, permitindo cadastrar produtos, listar itens disponíveis, adicionar compras ao carrinho e finalizar pedidos.
 Ele foi desenvolvido para praticar conceitos fundamentais de Python, incluindo:
 
-Programação orientada a objetos (POO)
-Estruturas de dados (listas e dicionários)
-Modularização
-Boas práticas de organização
-Interação com o usuário via terminal
+- Programação orientada a objetos (POO)
+- Estruturas de dados (listas e dicionários)
+- Modularização
+- Boas práticas de organização
+- Interação com o usuário via terminal
 
 ## Funcionalidades
 O sistema oferece as seguintes operações:
