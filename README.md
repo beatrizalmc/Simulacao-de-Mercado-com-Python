@@ -27,6 +27,7 @@ Se o item já existir, a quantidade é automaticamente incrementada.
 6. Sair: Encerra o sistema.
 
 ## Estrutura do Projeto
+```txt
 📁 MercadoPy
 ├── mercado.py
 ├── teste.py
@@ -35,10 +36,11 @@ Se o item já existir, a quantidade é automaticamente incrementada.
 │   └── produto.py
 └── utils
     └── helper.py
+```
     
-mercado.py: arquivo principal contendo o menu e fluxos da aplicação.
-models/produto.py: classe Produto, responsável por nome, preço e código.
-utils/helper.py: funções auxiliares (ex.: formatação monetária).
+- mercado.py: arquivo principal contendo o menu e fluxos da aplicação.
+- models/produto.py: classe Produto, responsável por nome, preço e código.
+- utils/helper.py: funções auxiliares (ex.: formatação monetária).
 
 ## Tecnologias Utilizadas
 - Python 3.10+
